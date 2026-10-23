@@ -1,4 +1,4 @@
-# Hi, I'm Agustín Rivera 👋
+# Hi I'm Agustín Rivera 
 
 Full stack developer from Neuquén, Argentina, with 4 years of experience across web development and IT infrastructure. Advanced student of the **Licenciatura en Sistemas de la Información** (Universidad Nacional del Comahue) and **Técnico Programador**.
 

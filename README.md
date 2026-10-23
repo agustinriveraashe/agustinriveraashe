@@ -1,6 +1,6 @@
 # Hi I'm Agustín Rivera 
 
-Full stack developer from Neuquén, Argentina, with 4 years of experience across web development and IT infrastructure. Advanced student of the **Licenciatura en Sistemas de la Información** (Universidad Nacional del Comahue) and **Técnico Programador**.
+Full stack developer from Neuquén, Argentina, with 4 years of experience across web development and IT infrastructure. Advanced student of the **Licenciatura en Sistemas de la Información** (Universidad Nacional del Comahue) and **Programming Technician** (technical high school degree).
 
 - Currently building a **QR payments and inventory system** for a small retail business (TypeScript, Express, PostgreSQL, React). Private repo, but it counts in my activity.
 - Previously: Full Stack Jr. at **Leben Salud** (healthcare apps) and **Zauber** (client projects), and IT Support / DevOps / SAP Jr. at **Eryx**.

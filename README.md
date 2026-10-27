@@ -22,4 +22,4 @@ Full stack developer from Neuquén, Argentina, with 4 years of experience across
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/agustin-rivera-ashe/)
+[LinkedIn](https://www.linkedin.com/in/agustin-rivera1/)

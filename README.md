@@ -12,7 +12,7 @@ Full stack developer from Neuquén, Argentina, with 4 years of experience across
 |---|---|
 | **Languages** | JavaScript, TypeScript, PHP, Python, Ruby, Dart, SQL |
 | **Frontend** | React, Angular, Vue.js, Svelte, SolidJS, Qwik, Astro, jQuery, Bootstrap, HTML, CSS |
-| **Mobile** | Flutter |
+| **Mobile** | Flutter, React Native|
 | **Backend** | Node.js (Express), Laravel, Django, FastAPI, REST APIs, GraphQL, Swagger (OpenAPI), Java / Spring Boot (support) |
 | **Databases** | PostgreSQL, MySQL, MariaDB, Microsoft SQL Server, Azure SQL, SQLite, MongoDB, Redis |
 | **Cloud & Data** | AWS, Vercel, Google Cloud Platform (BigQuery, Airflow, GKE), Apache Spark, Apache Hadoop, dbt |
